@@ -12,6 +12,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```Python
 # Register No:212225040482
 # Developed By: VARSHA S
+
+```
 # 1-Norm of a Matrix
 
 
@@ -37,7 +39,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 
